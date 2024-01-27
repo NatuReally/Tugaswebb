@@ -63,7 +63,7 @@ h1{
     image-rendering: auto;
 }
 .image-t{
-    width: 400px;
+    width: 375px;
     image-rendering: auto;
 }
 .list {
@@ -75,5 +75,5 @@ h1{
     display: flex;
 }
 .size{
-    max-width: 600px;
+    max-width: 500px;
 }
